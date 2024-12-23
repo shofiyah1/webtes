@@ -148,7 +148,7 @@ let info = {
       category: "Web App",
       date: "Jan, 2024 - 4 Months",
       description:
-        "Aplikasi Penjualan Voucher Wifi RT/RW Net Menggunakan Payment Gateway TriPay"
+        "Aplikasi Penjualan Voucher Wifi RT/RW Net Menggunakan Payment Gateway TriPay."
     },
     {
       name: "Restaurant App",
