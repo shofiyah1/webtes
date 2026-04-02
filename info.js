@@ -9,7 +9,7 @@ let info = {
     }
   },
   description:
-    "hey there, I am a fresh graduate of Informatics Engineering from Politeknik Negeri Bandung, passionate about making impactful contributions as a software developer. My primary interest lies in web development, with a strong focus on Front-End development. I enjoy creating intuitive and visually appealing user interfaces and have hands-on experience. While my focus is on Front-End development, I am also keenly interested in exploring other areas including Back-End development, System Quality Assurance, System Analysis, UI/UX Design, Database Engineering, and IT Support. This broad interest allows me to understand and contribute to various facets of software development and IT solutions.",
+    "hey there, I am an Informatics Engineering graduate from Politeknik Negeri Bandung, currently working as a Backend Developer specializing in Java Spring Boot in the trade innovation banking domain. I am passionate about making impactful contributions as a software developer. My primary interest lies in web development, with a strong focus on Back-End development. I have hands-on experience building and maintaining reliable systems, designing APIs, and supporting business processes in the banking industry. While my focus is on Back-End development, I am also keenly interested in exploring other areas including Front-End development, Software Quality Assurance, System Analysis, UI/UX Design, Database Engineering, and IT Support. This broad interest allows me to understand and contribute to various facets of software development and IT solutions.",
   links: {
     linkedin: "https://www.linkedin.com/in/shofiyah-1b5412329/",
     github: "https://github.com/shofiyah1",
@@ -43,6 +43,15 @@ let info = {
       description:
         "",
       skills: ["HTML5", "CSS3", "Bootstrap", "JQuery", "Json", "JavaSript", "TypeSript","VueJS", "Vue 3", "Vue 2", "Tailwind CSS", "Nuxt.js","Nuxt 3"]
+    },
+    {
+      name: "NTT Data Indonesia",
+      place: "Bank BJB Bandung",
+      date: "jun, 2025 - now",
+      position: "Java Developer",
+      description:
+        "",
+      skills: ["Java", "Spring Boot", "Spring Framework", "Dbeaver", "PostgreSQL", "MySQL", "Postman API","Websphere MQ", "MQ", "Talend"]
     }
   ],
   skills: [
@@ -67,6 +76,11 @@ let info = {
       title: "Frameworks",
       info: ["Node.js", "Vue.js", "React","Spring","Laravel","CodeIgniter","Ruby on Rails","Flutter"],
       icon: "fas fa-laptop-code"
+    },
+    {
+      title: "Middleware/ Messaging",
+      info: ["Node.js", "Vue.js", "React","Spring","Laravel","CodeIgniter","Ruby on Rails","Flutter"],
+      icon: "fa-solid fa-message"
     },
   ],
   portfolio: [
