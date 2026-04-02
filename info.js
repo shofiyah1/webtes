@@ -79,7 +79,7 @@ let info = {
     },
     {
       title: "Middleware/ Messaging",
-      info: ["Node.js", "Vue.js", "React","Spring","Laravel","CodeIgniter","Ruby on Rails","Flutter"],
+      info: ["IBM WebSphere, IBM MQ"],
       icon: "fa fa-comment"
     },
   ],
