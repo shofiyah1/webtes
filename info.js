@@ -13,7 +13,7 @@ let info = {
   links: {
     linkedin: "https://www.linkedin.com/in/shofiyah-1b5412329/",
     github: "https://github.com/shofiyah1",
-    resume: "https://drive.google.com/file/d/1LrIihNVvomlXVWNz_B0jMRI--Mv2KBGf/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/141XkZeMnJVbVYaQgiTNJQ858Il_0n9dW/view?usp=sharing",
   },
   education: [
     {
@@ -45,7 +45,7 @@ let info = {
       skills: ["HTML5", "CSS3", "Bootstrap", "JQuery", "Json", "JavaSript", "TypeSript","VueJS", "Vue 3", "Vue 2", "Tailwind CSS", "Nuxt.js","Nuxt 3"]
     },
     {
-      name: "NTT Data Indonesia",
+      name: "NTT Data",
       place: "Bank BJB Bandung",
       date: "jun, 2025 - now",
       position: "Java Developer",
@@ -80,7 +80,7 @@ let info = {
     {
       title: "Middleware/ Messaging",
       info: ["Node.js", "Vue.js", "React","Spring","Laravel","CodeIgniter","Ruby on Rails","Flutter"],
-      icon: "fa-solid fa-message"
+      icon: "fa fa-comment"
     },
   ],
   portfolio: [
